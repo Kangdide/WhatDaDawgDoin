@@ -1,0 +1,8 @@
+title: Dog
+originalAuthor: Kangdide
+description:
+assets:
+- name: remastered\obj\M_EX510.a.us\se\obj\se204
+  method: copy
+  source:
+  - name: se204.scd
